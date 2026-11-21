@@ -13,7 +13,7 @@
   "tamPaketKilidi": true,
   "tamPaketSatista": true,
   "reklamsizSatista": false,
-  "acilisIndirimi": true,
+  "acilisIndirimi": false,
   "ucretsizBolge": 2,
 
   "_yerler": "gecisYerleri icin secenekler: bolumSonu, oyunParki, atolye, bolgeTekrari",
