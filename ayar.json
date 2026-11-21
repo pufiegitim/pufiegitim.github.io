@@ -1,0 +1,22 @@
+{
+  "_aciklama": "Pufi ile Okuma Yazma uzaktan ayarları. true = açık, false = kapalı. Değişiklik birkaç dakikada telefonlara ulaşır.",
+
+  "banner": true,
+  "bannerEkranlari": ["harita", "park", "dolap", "heceler", "resimler", "atolye", "belge"],
+
+  "gecisReklami": true,
+  "gecisYerleri": ["bolumSonu"],
+  "gecisGundeEnCok": 3,
+  "gecisArasiDakika": 4,
+  "gecisKacinciBolumden": 2,
+
+  "tamPaketKilidi": true,
+  "tamPaketSatista": true,
+  "reklamsizSatista": false,
+  "acilisIndirimi": true,
+  "ucretsizBolge": 2,
+
+  "_yerler": "gecisYerleri icin secenekler: bolumSonu, oyunParki, atolye, bolgeTekrari",
+  "_ekranlar": "bannerEkranlari icin secenekler: harita, park (Oyunlar), dolap, heceler, resimler, atolye, belge",
+  "_tamPaket": "tamPaketKilidi false = butun bolgeler herkese ucretsiz. tamPaketSatista false = kilit durur, satin alma yerine Yakinda yazar."
+}
